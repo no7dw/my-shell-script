@@ -1,4 +1,6 @@
 alias s=server
+alias n=node
+alias nd=node-dev
 alias l='ls'
 alias lh='ls -lth'
 alias l='ls -l'
